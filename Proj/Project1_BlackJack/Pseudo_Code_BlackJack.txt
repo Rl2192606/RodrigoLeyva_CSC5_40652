@@ -1,0 +1,65 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/* 
+ * File:   main.cpp
+ * Author: Rodrigo
+ *
+ * Created on January 31, 2018, 2:09 PM
+ */
+
+//system libraries
+//start code
+    //hearts, diamonds, spades, clubs.
+//random seed
+ //dealer's first card
+//dealer's second card
+ //player's first card
+ //player's second card
+   //player's fourth card
+ //total score after cards dealt after first hit
+ //total score after cards dealt after second hit
+   //the player's total hand
+     //drawing of card to activate switch cases
+   //value of the new card being drawn
+ //player's name from input
+//possible player choices
+//choosing between hitting or standing after cards dealt
+
+
+    //start of game + welcome text!
+               
+            
+ //prompt user to enter your name
+//input for playerName string
+ //empty line
+    
+//prompts user to draw a hand or quit game
+ //loops while to make sure player enter correct inputs
+    
+
+   
+   //start of a new hand
+
+
+    
+//new hand starter
+        
+      //shows the player's two cards
+       
+                     
+ //prompts user to pick between hitting and standing
+         
+                
+//user has chosen to hit, dealers gives him a third card
+                                
+ //running total of total hand
+                      //user input validation
+                                
+     
+// quit game if player enters Q input
+
+ 
