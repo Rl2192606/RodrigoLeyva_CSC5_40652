@@ -1,0 +1,103 @@
+// BLACKJACK GAME
+//random value library
+//input and output stream
+// unique seed library
+// formatting library
+//string library
+
+//prototype functions
+//displays card
+//shows hand
+//random card is dealt from the deck
+//adds up hands
+//adds up totals
+
+// random generators
+//our 52 card deck
+//the total score of dealer's cards
+//the hand dealt to dealer
+//player's total hand
+//player's dealt hand
+// loop for the start of a hand
+// shuffle deck to even the chance for each card
+// deal cards to dealer and player, each receives two cards.
+//first player card
+//first dealer card (hidden)
+//second player card
+//second dealer card
+// loop for the start of a hand
+// shuffle deck to even the chance for each card
+		
+// deal cards to dealer and player, each receives two cards.
+//first player card
+                
+//first dealer card (hidden)
+                
+//second player card
+                
+//second dealer card
+                
+	
+
+		
+// welcome sign with table rules and signals a new hand being dealt
+		
+		
+//gives basic rule of dealer rule
+		
+//shows message to signal new hand
+	
+		
+// calculate total score for each hand, including after each hit
+	
+// shoe dealer's and player's hand. only show one of the dealer's card per blackjac rules
+//showing that the dealer has one face down card
+		
+//shows the total score of the player's cards
+		//show player cards
+
+// ask player if they want to hit or stay with their dealt cards.
+			
+//player chooses between hit and stay
+                  
+				
+//player decided to stand 
+//inpout validation. makes sure that the player chose a valid input, otherwise loops again
+// add player's card to update total and checks to make sure player hasn't gone over 21.
+		
+
+// check if player has busted after hits, if player has the dealer wins.
+	
+// player went over 21, dealer won. 
+		
+// dealer has to reach 17 per blackjack rules. checks if dealer has 17, if not, dealer hits.
+			
+//activates if dealer goes over 21
+		
+// if no one busts, compare scores to see who has the higher score
+				
+// player and dealer have same score, ends in a "push/tie"
+// "The Player wins" output message
+// "The dealer wins" output message
+//calculates score for face cards. "jack, queen, king, ace"
+	
+// calculations for each face card
+	
+// ace value
+// calculates the suit of the card. Doesn't chance the value of the card in blackjack, but adds to realism of the game :)
+	
+//clover suit
+	
+//diamond suit
+	
+//hearts suit
+	
+// spade suit
+
+//displays hand totals
+	
+//function for dealing out random cards
+	
+//randomizes when dealing out a card from a 52 card deck
+//determine soft ace value, per blackjack rules.
+//function that adds adds up the dealer and player's cards after a hit and displays
